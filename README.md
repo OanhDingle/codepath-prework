@@ -27,3 +27,4 @@ Codepath prework project: Hello from Oanh
    - [ ] c. If the text field is empty, update label with default text string.
    - [ ] d. The keyboard is dismissed after the button has been tapped.
 http://g.recordit.co/PY7dWqFAQt.gif
+<img src="http://g.recordit.co/PY7dWqFAQt.gif" width=250><br>
